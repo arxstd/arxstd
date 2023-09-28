@@ -40,6 +40,9 @@ I'm a Full-Stack Digital Product Creator with a passion for driving innovation a
 - 🎨 **Adobe Creative Suite**: Designing visually stunning interfaces.
 - 🎨 **Figma**: Collaborative UI/UX design and prototyping tool.
 
+## 100+ Private Repositories
+I have a substantial portfolio of over 100 private repositories, where I've worked on various projects, experiments, and innovations. These private repositories showcase my dedication to coding excellence and problem-solving.
+
 ## What I Do
 
 I use this diverse skill set to create digital products that blend functionality and aesthetics seamlessly. My mission is to bring ideas to life through code and design, crafting user-friendly solutions that make a significant impact.
