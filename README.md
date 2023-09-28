@@ -14,10 +14,10 @@ I create digital products that seamlessly blend functionality and aesthetics. My
 
 ## Get in Touch
 
-📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/arsheikh)
+📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/arxsheikh)
 
-🌐 Explore my work on [GitHub](https://github.com/arsheikh)
+🌐 Explore my work on [GitHub](https://github.com/arxsheikh)
 
-📧 Email: [your@email.com](mailto:your@email.com)
+📧 Email: [your@email.com](mailto:suport.arx@email.com)
 
 Let's collaborate, innovate, and build the future together! 💡
