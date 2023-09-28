@@ -13,8 +13,6 @@ I'm a Full-Stack Digital Product Creator with a passion for driving innovation a
 I create digital products that seamlessly blend functionality and aesthetics. My mission is to bring ideas to life through code and design, crafting user-friendly solutions that make an impact.
 ## My Most Used Language
 
-## My Repositories
-
 ## Get in Touch
 
 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/arxsheikh)
