@@ -11,6 +11,9 @@ I'm a Full-Stack Digital Product Creator with a passion for driving innovation a
 ## What I Do
 
 I create digital products that seamlessly blend functionality and aesthetics. My mission is to bring ideas to life through code and design, crafting user-friendly solutions that make an impact.
+## My Most Used Language
+
+![Top Language](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username)
 
 ## Get in Touch
 
