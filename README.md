@@ -1,6 +1,6 @@
-# Welcome to Arqify — Powering Digital Innovation
+# Welcome to arxstd — Powering Digital Innovation
 
-At **Arqify**, we specialize in building modern, scalable, and impactful digital products for businesses and individuals across the globe.
+At **arxstd**, we specialize in building modern, scalable, and impactful digital products for businesses and individuals across the globe.
 
 ## 🚀 What We Do
 
@@ -27,7 +27,7 @@ We craft high-performance applications with cutting-edge technologies, blending 
 
 ## 💼 Our Mission
 
-At **Arqify**, we don’t just build software—we engineer **solutions**. Our mission is to:
+At **arxstd**, we don’t just build software—we engineer **solutions**. Our mission is to:
 - Help global startups and enterprises accelerate growth
 - Empower teams with efficient tools
 - Deliver long-term scalable systems with 100% ESLint-proof, TypeScript-safe code
@@ -38,13 +38,13 @@ At **Arqify**, we don’t just build software—we engineer **solutions**. Our m
 > 🚧 Some repositories are private due to client confidentiality, but public samples and mock projects are available below.
 
 - [📘 GitHub Projects](https://github.com/arxsheikh?tab=repositories)
-- [🌍 arqify.com (coming soon)](https://arqify.com)
-- [📫 Reach us](mailto:support@arqify.com)
+- [🌍 arxstd.com (coming soon)](https://arxstd.com)
+- [📫 Reach us](mailto:support@arxstd.com)
 
 ---
 
 ### 👨‍💻 Managed by AR Sheikh
 
-As the lead developer of Arqify, I bring 7+ years of full-stack experience to the table, combining software craftsmanship with visionary digital thinking.
+As the lead developer of arxstd, I bring 7+ years of full-stack experience to the table, combining software craftsmanship with visionary digital thinking.
 
 Let’s build the future together. 🌍
