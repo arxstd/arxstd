@@ -1,50 +1,55 @@
-# Welcome to arxstd — Powering Digital Innovation
+# Hi, I’m AR Sheikh — Strategic Full-Stack Engineer 🧠🚀
 
-At **arxstd**, we specialize in building modern, scalable, and impactful digital products for businesses and individuals across the globe.
-
-## 🚀 What We Do
-
-We craft high-performance applications with cutting-edge technologies, blending intuitive design with robust functionality:
-
-### Web & App Development
-- **JavaScript/TypeScript**, **React**, **Next.js**, **Vue**, **Angular**
-- **Node.js**, **Express**, **Python (FastAPI/Django)**, **Go**, **Rust**
-- **Tailwind CSS**, **SCSS**, **Responsive Design**, **Motion UI**
-
-### Desktop Software
-- **Electron.js**, **C++**, **C#/.NET** — Cross-platform desktop solutions
-
-### Backend & DevOps
-- **MongoDB**, **PostgreSQL**, **SQL**, **Prisma**, **Redis**
-- **RESTful APIs**, **GraphQL**, **WebSocket**
-- **Docker**, **CI/CD**, **Cloud Deployment**
-
-### UI/UX & Branding
-- **Figma**, **Adobe Suite**, **User-centric prototyping**
-- **Micro-interactions**, **Accessibility-first design**
+**I architect, build, and scale reliable systems — from zero to enterprise-grade.**  
+If you’re a founder, CTO, or product leader looking to turn ideas into software that just works — let’s talk.
 
 ---
 
-## 💼 Our Mission
+## ⚒️ Tech I Master
 
-At **arxstd**, we don’t just build software—we engineer **solutions**. Our mission is to:
-- Help global startups and enterprises accelerate growth
-- Empower teams with efficient tools
-- Deliver long-term scalable systems with 100% ESLint-proof, TypeScript-safe code
+Frontend:   React • Next.js • TypeScript • TailwindCSS • Redux
+Backend:    Node.js • Express • REST • GraphQL • Authentication
+Database:   PostgreSQL • Prisma • MongoDB • IndexedDB
+Dev Tools:  Git • VS Code • Postman • Docker • CI/CD
+Focus:      Clean architecture • DX-first systems • High-performance UI • Scalable APIs
+
+
+## 🧠 What I Do
+
+✅ Build complex platforms with performance, clarity, and control
+✅ Design modular codebases that scale cleanly over time
+✅ Automate workflows that make teams faster and products smarter
+✅ Ship production-level systems that don’t break under pressure
+
+I don't just code features — I engineer systems that survive scale.
 
 ---
 
-## 📂 Projects & Case Studies
-> 🚧 Some repositories are private due to client confidentiality, but public samples and mock projects are available below.
+## 🔥 Why People Work With Me
 
-- [📘 GitHub Projects](https://github.com/arxsheikh?tab=repositories)
-- [🌍 arxstd.com (coming soon)](https://arxstd.com)
-- [📫 Reach us](mailto:support@arxstd.com)
+* No fluff, no noise — just results
+* CTO-level execution without the CTO price
+* Deep thinking before deep coding
+* Future-proof architecture, pixel-perfect delivery
+* 100% ESLint-proof, TypeScript-clean, and scalable
 
 ---
 
-### 👨‍💻 Managed by AR Sheikh
+## 💡 Philosophy
 
-As the lead developer of arxstd, I bring 7+ years of full-stack experience to the table, combining software craftsmanship with visionary digital thinking.
+> "If the product breaks under pressure — the code was never ready."
+> I believe good code is quiet, strategic, and invisible to the user.
 
-Let’s build the future together. 🌍
+---
+
+## 📫 Contact Me
+
+Let’s build something extraordinary.
+
+📨 Email: **[ar.fullstack@gmail.com](mailto:ar.fullstack@gmail.com)**
+🔗 LinkedIn: [linkedin.com/in/arsheikhdev](https://linkedin.com/in/arsheikhdev)
+
+---
+
+*This profile is optimized for hiring decisions.*
+*If you’re browsing to find your next full-stack partner — you’ve already found him.*
